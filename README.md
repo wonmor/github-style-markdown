@@ -38,9 +38,9 @@ const MyComponent = () => {
 export default MyComponent;
 ```
 
-- In vanilla JS, call it by
+- In Vanilla JS, call it by
 ```javascript
-const parseMarkdown = require('your-package-name');
+const parseMarkdown = require('react-style-markdown');
 
 const markdownText = `
 # Hello, world!
