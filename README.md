@@ -40,7 +40,7 @@ export default MyComponent;
 
 - In Vanilla JS, call it by
 ```javascript
-const parseMarkdown = require('react-style-markdown');
+const parseMarkdown = require('github-style-markdown');
 
 const markdownText = `
 # Hello, world!
