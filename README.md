@@ -9,6 +9,5 @@ A replacement for [react-markdown](https://github.com/remarkjs/react-markdown) p
 
 ## Installing
 
-Using NPM: ```npm install github-style-markdown```
-
-Using Yarn: ```yarn install github-style-markdown```
+- Using NPM: ```npm install github-style-markdown```
+- Using Yarn: ```yarn install github-style-markdown```
