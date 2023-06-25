@@ -1,7 +1,7 @@
 # github-style-markdown
-An NPM library that handles GitHub markdown-style text.
-
-A replacement for [react-markdown](https://github.com/remarkjs/react-markdown) package.
+- An NPM library that handles GitHub markdown-style text.
+- Remember that you have to write your own CSS stylesheet to imitate the below screenshot's aesthetics.
+- A replacement for [react-markdown](https://github.com/remarkjs/react-markdown) package.
 
 [![npm version](https://badge.fury.io/js/github-style-markdown.svg)](https://badge.fury.io/js/github-style-markdown)
 
