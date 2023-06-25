@@ -5,6 +5,8 @@ A replacement for [react-markdown](https://github.com/remarkjs/react-markdown) p
 
 [![npm version](https://badge.fury.io/js/github-style-markdown.svg)](https://badge.fury.io/js/github-style-markdown)
 
+<img width="500" alt="markdown-screenshot" src="https://github.com/wonmor/github-style-markdown/assets/35755386/9f03b7d6-c6ea-4b01-a084-913d09356097" />
+
 ---
 
 ## Installing
